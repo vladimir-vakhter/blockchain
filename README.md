@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain and Cryptocurrencies
 
 This repository contains 3 projects related to blockchain and cryptocurrencies:
 
