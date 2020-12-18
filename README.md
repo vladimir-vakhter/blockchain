@@ -1,5 +1,7 @@
 # Blockchain and Cryptocurrencies
 
+A simple cryptocurrency, Proof of Work, Smart Contracts
+
 This repository contains the solutions for the assignments from the 'Blockchain & Cryptocurrencies' course (ECE579) taken at Worcester Polytechnic Institute - WPI in the Spring 2020. 
 
 This repository contains 3 projects, namely:
